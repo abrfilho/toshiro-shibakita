@@ -1,3 +1,10 @@
+Fork criado para auxílio na replicação dos passos projeto final do bootcamp Linux Experience da DIO.me
+
+
+-------------------------------------------------------------------------------------------------------
+
+README original:
+
 Docker: Utilização prática no cenário de Microsserviços
 Denilson Bonatti, Instrutor - Digital Innovation One
 
